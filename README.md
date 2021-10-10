@@ -1,6 +1,6 @@
 ##  Bem-vindos!
 
-Meu nome é Rogério Jeremias[Minha Aplicação](https://jeremias.netlify.app/) to maintain and preview the content for your website in Markdown files.
+Meu nome é Rogério Jeremias[Minha Aplicação](https://jeremias.netlify.app/) Experiência de 21 anos em Processo de Fermentação Contínua / Batelada, Destilação Hidratado, Ciclohexano, MEG, Peneira Molecular e Tratamento de Caldo.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
